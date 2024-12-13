@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         t-a-p-p-y-t-o-o-n
-// @namespace    https://github.com/kawanoryo1234/ngoai_sau_muoi/raw/main/t-a-p-p-y-t-o-o-n.user.js
+// @namespace    t-a-p-p-y-t-o-o-n.user.js
 // @version      2024.12.13
 // @description  down t-a-p-p-y-t-o-o-n
 // @author       You
